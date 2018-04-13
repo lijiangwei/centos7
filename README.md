@@ -98,7 +98,7 @@
 
 ### 配置    
 
-    [https://blog.csdn.net/Wyxtnbp/article/details/78372707](ftp服务器配置教程)
+[ftp服务器配置教程](https://blog.csdn.net/Wyxtnbp/article/details/78372707)
 
 ## nextcloud--私有云
 
