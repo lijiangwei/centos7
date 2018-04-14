@@ -103,8 +103,17 @@
 ## nextcloud--私有云
 
 ## wordpress--搭建网站、博客
+[安装教程](https://cn.wordpress.org/txt-download/)
+1. 去官网下载源代码
+2. 上传到要部署的webserver目录
+3. 浏览器访问http://host/wordpress/wp-admin/index.php
 
-    
+## gogs
+
+### 安装
+[下载安装包](https://github.com/gogits/gogs/releases/download/v0.11.43/linux_amd64.zip)
+
+[安装教程](https://blog.mynook.info/post/host-your-own-git-server-using-gogs/)
 
 
 
