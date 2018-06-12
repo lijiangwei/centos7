@@ -88,7 +88,26 @@
 
 ## svn
 
+### 安装
+    # 安装
+    yum install subversion
+
+    # 启动
+    svnserve -d -r /usr/share/svn --config-file=/usr/share/svn/appebn/conf/svnserve.conf
+
+
+### 配置
+* 用户配置文件目录 /usr/share/svn/appebn/conf/passwd
+* 用户权限配置目录 /usr/share/svn/appebn/conf/authz
+
 ## dzzoffice--协同办公
+
+### 安装
+[下载源码](https://github.com/zyx0814/dzzoffice/releases/tag/2.0beta)
+
+上传到web服务器，访问安装页面
+
+    http://域名/dzzoffice/
 
 ## vsftpd--ftp服务器
 
@@ -114,6 +133,11 @@
 [下载安装包](https://github.com/gogits/gogs/releases/download/v0.11.43/linux_amd64.zip)
 
 [安装教程](https://blog.mynook.info/post/host-your-own-git-server-using-gogs/)
+
+## nodejs
+
+### 安装最新版nodejs
+    curl https://rpm.nodesource.com/setup_8.x | bash -
 
 
 
